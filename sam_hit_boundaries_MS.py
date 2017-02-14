@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
+#written by Alex Richter and edited by Michaela Lynott for mapping URA3 insertion points along K.max genome
 
 
 import sys
